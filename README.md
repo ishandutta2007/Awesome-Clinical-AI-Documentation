@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Clinical-AI-Documentation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-AI-Documentation?style=flat-square" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Clinical-AI-Documentation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-AI-Documentation?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Clinical-AI-Documentation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Clinical-AI-Documentation?style=flat-square" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Clinical-AI-Documentation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Clinical-AI-Documentation?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ The table below lists top commercial SaaS platforms sorted by **Company Size (Re
 
 ## 🔓 Open-Source GitHub Repositories
 
-Sorted by **GitHub Star Count** (descending). Star badges directly link to each repository's stargazers page.
+Sorted by **GitHub Stars_Count** (descending). Stars_Badges directly link to each repository's stargazers page.
 
-| Repository | Description | Stars |
+| Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[MedASR (Google Health)](https://github.com/Google-Health/medasr)** | Conformer-based medical speech recognition model trained on **~5,000 hours** of physician dictation. Achieves **4.6% WER** on radiology dictation. | [![Stars](https://img.shields.io/github/stars/Google-Health/medasr?style=social&color=white)](https://github.com/Google-Health/medasr/stargazers) |
 | **[OpenScribe](https://github.com/sammargolis/OpenScribe)** | Local-first ambient AI scribe with AES-GCM encrypted browser storage, local Ollama/MedGemma integration, and Whisper transcription. | [![Stars](https://img.shields.io/github/stars/sammargolis/OpenScribe?style=social&color=white)](https://github.com/sammargolis/OpenScribe/stargazers) |
